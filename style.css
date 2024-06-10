@@ -27,3 +27,15 @@ body{
     width: 100%;  
     font-size: 32px; 
 }
+
+.titulo-principal espan{
+    color:var(--verde)
+}
+
+.botao{
+    font-family:"chakra petch",sans-serif;
+    background-color:(--botao-inativo);
+    color:var(--branco);
+    display: flex;
+
+}
